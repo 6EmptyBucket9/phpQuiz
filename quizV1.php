@@ -1,4 +1,5 @@
 <?php
+//hoi
 include("model/land.php");
 include("model/quiz.php");
 session_start();
